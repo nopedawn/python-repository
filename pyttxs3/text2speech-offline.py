@@ -1,7 +1,6 @@
 # pip install pyttsx3 / pyttsx3 library
 import pyttsx3
 
-
 engine = pyttsx3.init()
 
 voices = engine.getProperty('voices')
