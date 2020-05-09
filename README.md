@@ -1,2 +1,2 @@
 # python-repository
-Isi dari random repository berisi sourcecode, silahkan diakses untuk kegunaan masing2
+my own local repository
