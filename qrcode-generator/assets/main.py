@@ -40,6 +40,5 @@ show_qr.grid(row=1, column=0, padx=3, pady=3)
 layarScreen.imagelabel = ttk.Label(layarScreen, background='#b8285d')
 layarScreen.imagelabel.grid(row=2, column=0, padx=3, pady=3, columnspan=3)
 
-
 # layarScreen mainloop = method
 layarScreen.mainloop()
